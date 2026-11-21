@@ -11,23 +11,11 @@
 	<groupId>com.cinemahub</groupId>
 	<artifactId>cinemahub</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
-	<url/>
-	<licenses>
-		<license/>
-	</licenses>
-	<developers>
-		<developer/>
-	</developers>
-	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
-	</scm>
+	<name>cinemahub</name>
+	<description>Cinema booking REST API</description>
+	<url>https://github.com/SlavApostolov/cinemahub</url>
 	<properties>
-		<java.version>25</java.version>
+		<java.version>24</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
